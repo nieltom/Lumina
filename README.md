@@ -1,8 +1,8 @@
-# \<p align="center"\>Lumina\<p/\>
+ \<p align="center"\>Lumina\<p/\>
 
-# \<p align="center"\>Um Jogo de Memória Acessível para a disciplina de Desenvolvimento Ágil\<p/\>
+ \<p align="center"\>Um Jogo de Memória Acessível para a disciplina de Desenvolvimento Ágil\<p/\>
 
-## Descrição do Projeto
+ Descrição do Projeto
 
 O **Lumina** é uma releitura acessível do clássico jogo Simon, desenvolvido em **Front-End** (HTML, CSS e JavaScript). O objetivo é criar uma experiência de jogo inclusiva, onde jogadores com e sem deficiência visual ou daltonismo possam competir e se divertir.
 
@@ -12,13 +12,13 @@ A jogabilidade é baseada na memorização de uma sequência crescente de cores 
   * **Padrões de Textura:** Para daltônicos, os botões têm padrões visuais únicos.
   * **Modos de Jogo Opcionais:** O usuário pode escolher entre modos que usam apenas luz, apenas som ou ambos.
 
-## Tecnologias Utilizadas
+ Tecnologias Utilizadas
 
   * HTML5
   * CSS3
   * JavaScript
 
-## Membros da Equipe "Front-End Wizards"
+ Membros da Equipe "Front-End Wizards"
 
   * [Nieltom Augusto](https://github.com/nieltom) (RA 2648040)
   * [Giovana da Silva Ribeiro](https://github.com/giovana0402) (RA 264855)
@@ -27,7 +27,7 @@ A jogabilidade é baseada na memorização de uma sequência crescente de cores 
   * [João Miguel](https://github.com/joaodiasrosa) (RA 2706423)
   
 
-## Como Contribuir
+ Como Contribuir
 
 1.  Faça um fork do projeto.
 2.  Crie uma branch para sua nova funcionalidade (`git checkout -b feature/nova-funcionalidade`).
