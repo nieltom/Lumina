@@ -1,83 +1,87 @@
 <!DOCTYPE html>
-
-<html>
-
+<html lang="pt-BR">
 <head>
-
-    <meta charset="utf-8">
-
-    <meta name=viewport content="width=device-width, initial-scale=1">
-
-    <title>Simon</title>
-
-    <link rel="stylesheet" href="css/style.css" />
-
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Jogo Simon Acessível 2.0</title>
+    <meta name="description" content="Jogo estilo Simon com foco em acessibilidade, suporte a teclado, dark mode e voz.">
+    
+    <!-- Link para o arquivo CSS -->
+    <link rel="stylesheet" href="styles.css">
 </head>
-
 <body>
+    <h1>Simon Says</h1>
 
-    <div class="wrapper">
+    <div id="status-message" aria-live="polite" role="status" style="position: absolute; top: -9999px; left: -9999px;"></div>
 
-        <h1>Simon</h1>
+    <main>
+        <div class="game-area">
+            <section class="game-board-container">
+                <button class="simon-button green textured" aria-label="Botão verde - som dó - textura listras"></button>
+                <button class="simon-button red textured" aria-label="Botão vermelho - som ré - textura bolinhas"></button>
+                <button class="simon-button yellow textured" aria-label="Botão amarelo - som mi - textura xadrez"></button>
+                <button class="simon-button blue textured" aria-label="Botão azul - som sol - textura ondas"></button>
+            </section>
+        </div>
 
-        <div class="game-board">
-
-            <div class="simon">
-
-                <ul>
-
-                    <li class="tile red" data-tile="1"></li>
-
-                    <li class="tile blue" data-tile="2"></li>
-
-                    <li class="tile yellow" data-tile="3"></li>
-
-                    <li class="tile green" data-tile="4"></li>
-
-                </ul>
-
+        <section class="game-info-panel">
+            <div class="score-display">
+                Rodada: <span id="current-round-display">0</span>
             </div>
+            
+            <button id="start-btn">Iniciar</button>
+            
+            <div class="game-options">
+                <h3>Opções de Jogo</h3>
+                <label>
+                    <input type="radio" name="game-mode" value="normal" checked>
+                    Normal
+                </label>
+                <label>
+                    <input type="radio" name="game-mode" value="sound-only">
+                    Apenas Som
+                </label>
+                <label>
+                    <input type="radio" name="game-mode" value="light-only">
+                    Apenas Luz
+                </label>
+                <label>
+                    <input type="radio" name="game-mode" value="free-board">
+                    Tabuleiro Livre
+                </label>
+            </div>
+        </section>
+        
+        <nav class="accessibility-controls">
+            <button id="tts-toggle" class="toggle-btn" aria-label="Alternar voz do narrador (TTS)">
+                <span role="img" aria-label="Ícone de voz">🗣️</span> Voz: <span id="tts-status">Ligado</span>
+            </button>
+            <button id="sound-toggle" class="toggle-btn" aria-label="Alternar som do jogo">
+                <span role="img" aria-label="Ícone de som">🔊</span> Som: <span id="sound-status">Ligado</span>
+            </button>
+            <button id="dark-mode-toggle" class="toggle-btn" aria-label="Alternar modo escuro">
+                <span role="img" aria-label="Ícone de lua">🌙</span> Escuro
+            </button>
+        </nav>
+    </main>
 
-        </div>
+    <footer>
+        <p>Atalhos de teclado:</p>
+        <dl class="shortcuts">
+            <dt>Botões Simon:</dt>
+            <dd>Q, W, E, R (ou setas: ↑, →, ↓, ←)</dd>
+            <dt>S</dt>
+            <dd>Alternar som</dd>
+            <dt>T</dt>
+            <dd>Alternar voz (TTS)</dd>
+            <dt>D</dt>
+            <dd>Alternar modo escuro</dd>
+            <dt>N</dt>
+            <dd>Novo jogo</dd>
+        </dl>
+    </footer>
 
-        <div class="game-info">
-
-            <h2>Round: <span data-round="0">0</span></h2>
-
-            <button data-action="start">Start</button>
-
-            <p data-action="lose">Voce Perdeu!!!<span data-round="0"></span> rounds!</p>
-
-        </div>
-
-        <div class="game-options">
-
-            <h2>Options:</h2>
-
-            <input type="radio" name="mode" value="normal" checked>Normal<br>
-
-            <input type="radio" name="mode" value="sound-only">Som<br>
-
-            <input type="radio" name="mode" value="light-only">Luzes<br>
-
-            <input type="radio" name="mode" value="free-board">Jogo Livre
-
-        </div>
-
-        <div data-action="sound"></div>
-
-        <footer>
-
-            Criado por "github integrantes"
-            <a href=""></a>
-            <!--Github do projeto -->
-
-
-
-        </footer>
-
-    </div>
-
+    <!-- Link para o arquivo JavaScript -->
+    <script src="game.js"></script>
 </body>
-
 </html>
