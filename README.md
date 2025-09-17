@@ -28,7 +28,7 @@ A jogabilidade é baseada na memorização de uma sequência crescente de cores 
 
   * Tabela de Requisitos
   * [Requisitos Funcionais](https://github.com/Lpzin006/Lumina/blob/main/TabelaRNF.md)
-  * [Requisitos Não Funcionais] (https://github.com/Lpzin006/Lumina/blob/main/TabelaRF.md)
+  * [Requisitos Não Funcionais](https://github.com/Lpzin006/Lumina/blob/main/TabelaRF.md)
 
  Como Contribuir
 
