@@ -16,6 +16,5 @@
 
 
 <div style="text-align: center">
-<p>Tabela 1: Requisitos Funcionais</p>
-</div>
+
 
