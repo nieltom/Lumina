@@ -25,7 +25,10 @@ A jogabilidade é baseada na memorização de uma sequência crescente de cores 
   * [Beatriz-Alvarenga](https://github.com/Beatriz-Alvarenga?tab=stars) (RA 2649454)
   * [Luiz pedro](https://github.com/Lpzin006) (RA 2648024)
   * [João Miguel](https://github.com/joaodiasrosa) (RA 2706423)
-  
+
+  * Tabela de Requisitos
+  * [Requisitos Funcionais](https://github.com/Lpzin006/Lumina/blob/main/TabelaRNF.md)
+  * [Requisitos Não Funcionais] (https://github.com/Lpzin006/Lumina/blob/main/TabelaRF.md)
 
  Como Contribuir
 
