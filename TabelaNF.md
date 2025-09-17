@@ -19,4 +19,3 @@
 <p>Tabela 1: Requisitos Funcionais</p>
 </div>
 
-# 2. Referências
