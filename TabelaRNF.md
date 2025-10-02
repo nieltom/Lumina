@@ -4,10 +4,10 @@
 
 | ID   |                                 Requisito                                                                      | Prioridade | Requisitos Relacionados |
 | :--: | :-----------------------------------------------------------------------:                                      | :--------: | :---------: |
-| RF01 |     O Lumina suporta execução em desktops, notebooks e smartphones, garantindo portabilidade e acessibilidade. |   Média    |    RF12     |
-| RF02 |   A interface do Lumina é intuitiva, facilitando a usabilidade para usuários iniciantes no game.               |  Alta      |      RF25   |
-| RF03 |   O código foi desenvolvido de forma limpa e organizada, facilitando a manutenção futura do sistema.           |  Baixa     |     -       |
-| RF04 | O sistema oferece respostas rápidas, proporcionando uma experiência ágil e satisfatória ao usuário.            |            |             |
+| RF01 |     O Lumina suporta execução em desktops, notebooks e smartphones, garantindo portabilidade e acessibilidade. |   Alta    |    RR02    |
+| RF02 |   A interface do Lumina é intuitiva, facilitando a usabilidade para usuários iniciantes no game.               |  Alta      |      --   |
+| RF03 |   O código foi desenvolvido de forma limpa e organizada, facilitando a manutenção futura do sistema.           |  Alta    |     RR01,04      |
+| RF04 | O sistema oferece respostas rápidas, proporcionando uma experiência ágil e satisfatória ao usuário.            |       Média     |   RR02          |
 
 
 
