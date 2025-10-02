@@ -9,9 +9,9 @@
 | RF03 |    O jogo exibe a rodada atual na interface principal, mantendo o jogador informado sobre seu progresso.       |  Baixa   |           RR05         |
 | RF04 | O jogador pode interagir com o sistema por meio de comandos simples, como cliques ou toques.                           |          |            RR04              |
 | RF05 |        O Lumina adapta os estímulos visuais e sonoros conforme o modo de jogo selecionado.                        |           |           RR04              |
-| RF06 |      O sistema salva automaticamente o progresso do jogador durante a partida.                                        |           |               --              |
-| RF07 |      O jogador pode reiniciar o jogo a qualquer momento, acessando a opção no menu.                            |            |      --      |
-| RF08 |    O Lumina permite acesso ao menu principal durante o jogo, facilitando a navegação entre opções.             |            |      --       |
+| RF06 |      O sistema salva automaticamente o progresso do jogador durante a partida.                                        |           |       RR01,04        |
+| RF07 |      O jogador pode reiniciar o jogo a qualquer momento, acessando a opção no menu.                            |            |      RR01      |
+| RF08 |    O Lumina permite acesso ao menu principal durante o jogo, facilitando a navegação entre opções.             |            |      RR01      |
 
 
 
