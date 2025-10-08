@@ -1,20 +1,14 @@
 # 1. Requisitos Funcionais
 
-<p align="justify">A <i>Tabela 1</i> a seguir contém os Requisitos Funcionais (RF) elicitados utizando a técnica de Brainstorm.</p>
+<p align="justify">A <i>Tabela 1</i> a seguir contém os Requisitos Funcionais (RF) revisados com base na inspeção de requisitos.</p>
 
-| ID   |                                 Requisito                                                                      | Prioridade | Requisitos Relacionados |
-| :--: | :-----------------------------------------------------------------------:                                      | :--------: | :---------: |
-| RF01 |        Lumina permite ao jogador iniciar uma nova partida a partir do menu principal.                      |   Média       |   RR02,03,04,06,07,08  |
-| RF02 |   O sistema oferece diferentes modos de jogo: Normal, Apenas Som, Apenas Luz e Tabuleiro Livre.                |  Alta         |           RR02         |
-| RF03 |    O jogo exibe a rodada atual na interface principal, mantendo o jogador informado sobre seu progresso.       |  Baixa   |           RR05         |
-| RF04 | O jogador pode interagir com o sistema por meio de comandos simples, como cliques ou toques.                           | Alta         |            RR04              |
-| RF05 |        O Lumina adapta os estímulos visuais e sonoros conforme o modo de jogo selecionado.                        |     Alta      |           RR04              |
-| RF06 |      O sistema salva automaticamente o progresso do jogador durante a partida.                                        |    Alta       |       RR01,04        |
-| RF07 |      O jogador pode reiniciar o jogo a qualquer momento, acessando a opção no menu.                            |     Média       |      RR01      |
-| RF08 |    O Lumina permite acesso ao menu principal durante o jogo, facilitando a navegação entre opções.             |    Alta        |      RR01      |
-
-
-
-<div style="text-align: center">
-
-
+| ID   |                                 Requisito                                                                      | Prioridade |
+| :--: | :------------------------------------------------------------------------------------------------------------- | :--------: |
+| RF01 | O sistema deve permitir ao jogador iniciar uma nova partida diretamente da tela principal, clicando no botão "Iniciar". O jogo não requer um sistema de login para acesso. |   Média    |
+| RF02 | O sistema deve oferecer os seguintes modos de jogo, selecionáveis via botões de rádio: <br> • **Normal:** Utiliza estímulos visuais (luzes) e sonoros (notas musicais) simultaneamente. <br> • **Apenas Som:** A sequência é apresentada utilizando apenas os sons únicos de cada botão, sem feedback visual. <br> • **Apenas Luz:** A sequência é apresentada utilizando apenas o feedback visual (piscar dos botões), sem emitir sons. <br> • **Tabuleiro Livre:** Permite ao jogador interagir com os botões livremente, sem iniciar uma sequência ou pontuação. |    Alta    |
+| RF03 | O sistema deve exibir a rodada atual em um formato numérico na interface principal, através do texto "Rodada: [número da rodada]". |   Baixa    |
+| RF04 | O jogador deve poder interagir com os botões do jogo através de duas formas: <br> • **Mouse:** Clique direto sobre os botões coloridos. <br> • **Teclado:** Pressionamento das teclas de atalho correspondentes (Q/Seta para Cima, W/Seta para Direita, E/Seta para Baixo, R/Seta para Esquerda). |    Alta    |
+| RF05 | [cite_start]O sistema deve adaptar os estímulos conforme o modo de jogo selecionado[cite: 3, 4]: <br> • **Modo Normal:** Ativa o piscar da luz e o som correspondente. <br> • **Modo Apenas Som:** Ativa apenas o som correspondente. <br> • **Modo Apenas Luz:** Ativa apenas o piscar da luz. |    Alta    |
+| RF06 | O sistema deve salvar o progresso da rodada atual. [cite_start]Em caso de reinício ou ao acessar o menu principal durante o jogo, a partida é finalizada e o progresso é zerado, sendo necessário iniciar um novo jogo[cite: 4]. |    Alta    |
+| RF07 | [cite_start]O jogador pode reiniciar o jogo a qualquer momento clicando no botão "Reiniciar" (que substitui o "Iniciar" após o começo da partida)[cite: 3]. [cite_start]Esta ação interrompe a partida atual e zera a pontuação, sem exibir um modal de confirmação[cite: 4]. |   Média    |
+| RF08 | [cite_start]O acesso às opções de jogo (como a troca de modo) é permitido apenas antes de iniciar uma partida ou após o seu término[cite: 3]. [cite_start]Durante o jogo, não há um botão para retornar ao "menu principal", apenas a opção de reiniciar a partida[cite: 4]. |    Alta    |
