@@ -32,6 +32,8 @@ A jogabilidade é baseada na memorização de uma sequência crescente de cores 
 
 [Requisitos Não Funcionais](https://github.com/Lpzin006/Lumina/blob/main/TabelaRF.md) 
 
+[História de Usuáro](https://github.com/Lpzin006/Lumina/blob/main/Hist%C3%B3riadeUsuario.md)
+
  Como Contribuir
 
 1.  Faça um fork do projeto.
