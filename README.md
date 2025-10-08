@@ -18,7 +18,7 @@ A jogabilidade é baseada na memorização de uma sequência crescente de cores 
   * CSS3
   * JavaScript
 
- Membros da Equipe "Front-End Wizards"
+ **Membros da Equipe**
 
   * [Nieltom Augusto](https://github.com/nieltom) (RA 2648040)
   * [Giovana da Silva Ribeiro](https://github.com/giovana0402) (RA 264855)
