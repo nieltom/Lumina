@@ -1,6 +1,5 @@
- <p align="center"\>**Lumina**<p/\>
-
- <p align="center"\>**Um Jogo de Memória Acessível para a disciplina de Desenvolvimento Ágil**<p/\>
+<p align="center"><b>Lumina</b></p>
+<p align="center"><b>Um Jogo de Memória Acessível para a disciplina de Desenvolvimento Ágil</b></p>
 
  **Descrição do Projeto**
 
