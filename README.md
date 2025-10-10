@@ -1,7 +1,12 @@
 <p align="center"><b>Lumina</b></p>
 <p align="center"><b>Um Jogo de Memória Acessível para a disciplina de Desenvolvimento Ágil</b></p>
 
+
  **Descrição do Projeto**
+ <p align="center"\>Um Jogo de Memória Acessível para a disciplina de Desenvolvimento Ágil<p/\>
+
+ Descrição do Projeto
+
 
 O **Lumina** é uma releitura acessível do clássico jogo Simon, desenvolvido em **Front-End** (HTML, CSS e JavaScript). O objetivo é criar uma experiência de jogo inclusiva, onde jogadores com e sem deficiência visual ou daltonismo possam competir e se divertir.
 
