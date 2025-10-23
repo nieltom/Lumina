@@ -30,7 +30,8 @@ A jogabilidade é baseada na memorização de uma sequência crescente de cores 
   * [Luiz Pedro](https://github.com/Lpzin006) (RA 2648024)
   * [João Miguel](https://github.com/joaodiasrosa) (RA 2706423)
 
-**Projeto Completo**
+**JOGO**
+
 [Protótipo](https://nieltom.github.io/Lumina/)
 
 
