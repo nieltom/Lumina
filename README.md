@@ -43,12 +43,5 @@ A jogabilidade é baseada na memorização de uma sequência crescente de cores 
 
 [**História de Usuáro**](https://github.com/Lpzin006/Lumina/blob/main/Hist%C3%B3riadeUsuario.md)
 
- **Como Contribuir**
-
-1.  Faça um fork do projeto.
-2.  Crie uma branch para sua nova funcionalidade (`git checkout -b feature/nova-funcionalidade`).
-3.  Faça commit das suas alterações (`git commit -m 'feat: Adiciona nova funcionalidade'`).
-4.  Envie para a branch (`git push origin feature/nova-funcionalidade`).
-5.  Abra um Pull Request.
 
 
