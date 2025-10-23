@@ -30,6 +30,9 @@ A jogabilidade é baseada na memorização de uma sequência crescente de cores 
   * [Luiz Pedro](https://github.com/Lpzin006) (RA 2648024)
   * [João Miguel](https://github.com/joaodiasrosa) (RA 2706423)
 
+[Protótipo](https://nieltom.github.io/Lumina/)
+
+
 **TABELA DE REQUISITOS**
 
 [**Requisitos Funcionais**](https://github.com/Lpzin006/Lumina/blob/main/TabelaRNF.md)
@@ -46,4 +49,4 @@ A jogabilidade é baseada na memorização de uma sequência crescente de cores 
 4.  Envie para a branch (`git push origin feature/nova-funcionalidade`).
 5.  Abra um Pull Request.
 
-https://nieltom.github.io/Lumina/
+
