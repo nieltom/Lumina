@@ -1,14 +1,15 @@
-<p align="center">
-  <img src="Lumen_TechLogo.png" alt="Lumen_TechLogo.png" width="150">
-</p>
-
-<p align="center"><b>Lumina</b></p>
-
  <p align="center">
   <strong>Desenvolvimento Ágil - 2025/2</strong>
   <br>
   Projeto Final da Disciplina
 </p>
+
+
+<p align="center">
+  <img src="Lumen_TechLogo.png" alt="Lumen_TechLogo.png" width="150">
+</p>
+
+<p align="center"><b>Lumina</b></p>
 
 
 
