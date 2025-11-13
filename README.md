@@ -10,7 +10,9 @@
 </p>
 
 <p align="center"><b>Lumina</b></p>
-<p align="center">Um Jogo de Memória Acessível</p>
+<p align="center">Um Jogo de Memória Acessível
+
+</p>
 
 
  **Descrição do Projeto**
