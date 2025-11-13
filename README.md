@@ -11,7 +11,7 @@
 
 <p align="center"><b>Lumina</b></p>
 <p align="center">
-  <strong>Um Jogo de Memória Acessível</strong>
+ Um Jogo de Memória Acessível
 </p>
 
 
