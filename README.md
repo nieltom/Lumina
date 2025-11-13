@@ -4,8 +4,11 @@
 
 <p align="center"><b>Lumina</b></p>
 
- 
-<p align="center"\>Um Jogo de Memória Acessível para a disciplina de Desenvolvimento Ágil<p/\>
+ <p align="center">
+  <strong>Desenvolvimento Ágil - 2025/2</strong>
+  <br>
+  Projeto Final da Disciplina
+</p>
 
 
 
