@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="Lumina/imagens/logo_TechLumen.png" alt="logo_TechLumen.png" width="150">
+</p>
 <p align="center"><b>Lumina</b></p>
 <p align="center"><b>Um Jogo de Memória Acessível para a disciplina de Desenvolvimento Ágil</b></p>
 
