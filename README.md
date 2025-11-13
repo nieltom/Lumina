@@ -1,7 +1,9 @@
 <p align="center">
   <img src="Lumen_TechLogo.png" alt="Lumen_TechLogo.png" width="150">
 </p>
+
 <p align="center"><b>Lumina</b></p>
+
 <p align="center"><b>Um Jogo de Memória Acessível para a disciplina de Desenvolvimento Ágil</b></p>
 
 
