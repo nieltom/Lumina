@@ -6,7 +6,7 @@
 
 
 <p align="center">
-  <img src="Prototipo/img/Lumen_TechLogo.png" alt="Logo do Lumina" width="150">
+  <img src="img/Lumen_TechLogo.png" alt="Logo do Lumina" width="150">
 </p>
 
 <p align="center"><b>Lumina</b></p>
