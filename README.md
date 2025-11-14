@@ -39,9 +39,9 @@ Esta seção cumpre o item "e" da Atividade 01, servindo como um sumário dos ar
 
 * **[🎮 Protótipo Funcional (JOGUE AQUI)](https://nieltom.github.io/Lumina/)**
 * **[📄 Requisitos de Usuário](./Requisitos%20de%20Usuário/)**:
-    * [Requisitos Funcionais](./Requisitos%20de%20Usuário/Requisitos%20Funcionais.md)
-    * [Requisitos Não Funcionais](./Requisitos%20de%20Usuário/TabelaRNF.md)
-    * [Histórias de Usuário](./Requisitos%20de%20Usuário/Historia%20de%20Usuário.txt)
+    * [Requisitos Funcionais](https://github.com/Lpzin006/Lumina/blob/main/TabelaRNF.md)
+    * [Requisitos Não Funcionais]([./Requisitos%20de%20Usuário/TabelaRNF.md](https://github.com/Lpzin006/Lumina/blob/main/TabelaRF.md))
+    * [Histórias de Usuário](https://github.com/Lpzin006/Lumina/blob/main/Hist%C3%B3riadeUsuario.md)
 * **[📐 Requisitos de Sistema](./Requisitos%20de%2OSistema/)**:
     * [Modelagem UML (Astah)](./Requisitos%20de%20Sistema/Projeto-Lumina.asta)
 *
