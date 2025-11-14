@@ -41,7 +41,7 @@ Esta seção cumpre o item "e" da Atividade 01, servindo como um sumário dos ar
 * **[📄 Requisitos de Usuário](./Requisitos%20de%20Usuário/)**:
     * [Requisitos Funcionais](https://github.com/Lpzin006/Lumina/blob/main/TabelaRNF.md)
     * [Requisitos Não Funcionais]([./Requisitos%20de%20Usuário/TabelaRNF.md](https://github.com/Lpzin006/Lumina/blob/main/TabelaRF.md))
-    * [Histórias de Usuário](https://github.com/Lpzin006/Lumina/blob/main/Hist%C3%B3riadeUsuario.md)
+    * [Histórias de Usuário](https://github.com/nieltom/Lumina/blob/main/Requisitos%20de%20Usuario/Historia%20de%20Usu%C3%A1rio.md)
 * **[📐 Requisitos de Sistema](./Requisitos%20de%2OSistema/)**:
     * [Modelagem UML (Astah)](./Requisitos%20de%20Sistema/Projeto-Lumina.asta)
 *
