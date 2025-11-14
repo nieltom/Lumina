@@ -1,11 +1,19 @@
-<p align="center"><b>Lumina</b></p>
-<p align="center"><b>Um Jogo de Memória Acessível para a disciplina de Desenvolvimento Ágil</b></p>
+ <p align="center">
+  <strong>Desenvolvimento Ágil - 2025/2</strong>
+  <br>
+  Projeto Final da Disciplina
+</p>
 
+
+<p align="center">
+  <img src="../img/ChatGPT Image 13 de nov. de 2025, 10_57_51.png" alt="Logo do Lumina" width="150">
+</p>
+
+<p align="center"><b>Lumina</b></p>
+<br>
+<br>
 
  **Descrição do Projeto**
- <p align="center"\>Um Jogo de Memória Acessível para a disciplina de Desenvolvimento Ágil<p/\>
-
- Descrição do Projeto
 
 
 O **Lumina** é uma releitura acessível do clássico jogo Simon, desenvolvido em **Front-End** (HTML, CSS e JavaScript). O objetivo é criar uma experiência de jogo inclusiva, onde jogadores com e sem deficiência visual ou daltonismo possam competir e se divertir.
