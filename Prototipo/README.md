@@ -6,7 +6,7 @@
 
 
 <p align="center">
-  <img src="img/Lumen_TechLogo.png" alt="Logo do Lumina" width="150">
+  <img src="img/ChatGPT Image 13 de nov. de 2025, 10_57_51.png" alt="Logo do Lumina" width="150">
 </p>
 
 <p align="center"><b>Lumina</b></p>
