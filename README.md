@@ -42,6 +42,6 @@ Esta seção cumpre o item "e" da Atividade 01, servindo como um sumário dos ar
     * [Requisitos Funcionais](https://github.com/nieltom/Lumina/blob/main/Requisitos%20de%20Usuario/Requisitos%20Funcionais.md)
     * [Requisitos Não Funcionais](https://github.com/nieltom/Lumina/blob/main/Requisitos%20de%20Usuario/Requisitos%20N%C3%A3o%20Funcionais.md)
     * [Histórias de Usuário](https://github.com/nieltom/Lumina/blob/main/Requisitos%20de%20Usuario/Historia%20de%20Usu%C3%A1rio.md)
-* **[📐 Requisitos de Sistema](./Requisitos%20de%2OSistema/)**:
+* **[📐 Requisitos de Sistema](https://github.com/nieltom/Lumina/tree/main/Requisitos%20de%20Sistema)**:
     * [Modelagem UML (Astah)](./Requisitos%20de%20Sistema/Projeto-Lumina.asta)
 *
