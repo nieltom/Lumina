@@ -35,7 +35,7 @@ A jogabilidade é baseada na memorização de uma sequência crescente de cores 
 
 ## 📂 Documentação e Links do Projeto
 
-Esta seção cumpre o item "e" da Atividade 01, servindo como um sumário dos artefatos do projeto.
+
 
 * **[🎮 Protótipo Funcional (JOGUE AQUI)](https://nieltom.github.io/Lumina/)**
 * **[📄 Requisitos de Usuário](./Requisitos%20de%20Usuário/)**:
