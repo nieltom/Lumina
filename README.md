@@ -9,8 +9,6 @@
 </p>
 <h1 align="center">Lumina</h1>
 
----
-
 ## 🎯 Descrição do Projeto
 
 O **Lumina** é uma releitura acessível do clássico jogo Simon, desenvolvido em **Front-End** (HTML, CSS e JavaScript). O objetivo é criar uma experiência de jogo inclusiva, onde jogadores com e sem deficiência visual ou daltonismo possam competir e se divertir.
@@ -26,8 +24,6 @@ A jogabilidade é baseada na memorização de uma sequência crescente de cores 
 * CSS3
 * JavaScript
 
----
-
 ## 👥 Equipe
 | Nome (RA) | GitHub |
 | :--- | :--- |
@@ -36,8 +32,6 @@ A jogabilidade é baseada na memorização de uma sequência crescente de cores 
 | Beatriz Alvarenga (RA: 2649454) | [Beatriz-Alvarenga](https://github.com/Beatriz-Alvarenga?tab=stars) |
 | Luiz Pedro (RA: 2648024) | [Lpzin006](https://github.com/Lpzin006) |
 | João Miguel (RA: 2706423) | [joaodiasrosa](https://github.com/joaodiasrosa) |
-
----
 
 ## 📂 Documentação e Links do Projeto
 
@@ -48,7 +42,6 @@ Esta seção cumpre o item "e" da Atividade 01, servindo como um sumário dos ar
     * [Requisitos Funcionais](./Requisitos%20de%20Usuário/Requisitos%20Funcionais.md)
     * [Requisitos Não Funcionais](./Requisitos%20de%20Usuário/TabelaRNF.md)
     * [Histórias de Usuário](./Requisitos%20de%20Usuário/Historia%20de%20Usuário.txt)
-* **[📐 Requisitos de Sistema](./Requisitos%20de%20Sistema/)**:
+* **[📐 Requisitos de Sistema](./Requisitos%20de%2OSistema/)**:
     * [Modelagem UML (Astah)](./Requisitos%20de%20Sistema/Projeto-Lumina.asta)
-* **[🎨 Código-Fonte (Protótipo)](./Prototipação/)**:
-    * Contém os arquivos `index.html`, `style.css` e `game.js`.
+*
