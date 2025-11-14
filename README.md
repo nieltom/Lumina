@@ -38,7 +38,7 @@ A jogabilidade é baseada na memorização de uma sequência crescente de cores 
 
 
 * **[🎮 Protótipo Funcional (JOGUE AQUI)](https://nieltom.github.io/Lumina/)**
-* **[📄 Requisitos de Usuário](./Requisitos%20de%20Usuário/)**:
+* **[📄 Requisitos de Usuário](https://github.com/nieltom/Lumina/tree/main/Requisitos%20de%20Usuario)**:
     * [Requisitos Funcionais](https://github.com/nieltom/Lumina/blob/main/Requisitos%20de%20Usuario/Requisitos%20Funcionais.md)
     * [Requisitos Não Funcionais](https://github.com/nieltom/Lumina/blob/main/Requisitos%20de%20Usuario/Requisitos%20N%C3%A3o%20Funcionais.md)
     * [Histórias de Usuário](https://github.com/nieltom/Lumina/blob/main/Requisitos%20de%20Usuario/Historia%20de%20Usu%C3%A1rio.md)
